@@ -1,9 +1,3 @@
-class Ticket
-    def getTicket
-        puts "Ticket 1"
-    end
-end
-
 class Integration::Line::LineIntegrationController < ApplicationController
   skip_before_action :verify_authenticity_token
   before_action :allow_iframe_requests # just for development
