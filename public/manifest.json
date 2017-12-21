@@ -1,0 +1,14 @@
+
+{
+  "name": "Line Integration",
+  "id": "trees-line-integration",
+  "author":  "Trees Solutions",
+  "version": "v1.0.0",
+  "push_client_id": "zd_trees_integration",
+  "urls": {
+    "admin_ui": "https://line-integration.herokuapp.com/integration/line/admin",
+    "pull_url": "https://line-integration.herokuapp.com/integration/line/pull",
+    "channelback_url": "https://line-integration.herokuapp.com/integration/line/channelback",
+    "clickthrough_url": "https://line-integration.herokuapp.com/integration/line/clickthrough"
+  }
+}
